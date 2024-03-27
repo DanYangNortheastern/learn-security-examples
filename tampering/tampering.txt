@@ -1,0 +1,4 @@
+Tampering is when someone unauthorized alters information, like changing your grades or messing with data. 
+This kind of attack directly hits the integrity part of the CIA triad because it's all about ensuring data 
+remains correct and unaltered. To stop tampering, we use things like access controls, encryption, and checksums, 
+ensuring only the right people touch our data and that any changes are legit and traceable.
