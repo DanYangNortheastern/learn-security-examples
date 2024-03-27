@@ -1,3 +1,13 @@
 Briefly explain the vulnerability and why the secure version prevents the vulnerability.
 
-A
+Spoofing is when a hacker pretends to be someone else in a network to steal data or cause harm, 
+mainly messing with the integrity and authenticity of information. It's like if someone faked your 
+ID to take your exam; they break trust and potentially change outcomes. To prevent this, we use stuff 
+like two-factor authentication, encryption, and firewall settings, making sure the person or device is legit. 
+This way, we keep data real and secure, stopping hackers from playing dress-up with our information.
+
+Spoofing primarily violates integrity as it because spoofing can alter or manipulate data.
+
+
+
+
