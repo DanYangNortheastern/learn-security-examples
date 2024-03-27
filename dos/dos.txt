@@ -1,2 +1,8 @@
 - Briefly explain the vulnerability and why the secure version prevents the vulnerability.
 - What additional security mechanisms can you incorporate to prevent such attacks?
+
+
+A DoS attack overwhelms a system, network, or website, making it unavailable to intended users. 
+This kind of attack exploits the availability aspect of the CIA triad, as it prevents legitimate users from 
+accessing services or information. To counteract DoS attacks, a secure version of a system might include better 
+traffic filtering, rate limiting, and robust authentication mechanisms to distinguish and block malicious traffic.
