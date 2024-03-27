@@ -1,3 +1,9 @@
 Briefly explain the vulnerability and why the secure version prevents the vulnerability.
 Which CIA property does tampering violate?
 What additional security mechanisms can you incorporate?
+
+Information disclosure is when confidential data gets exposed to unauthorized individuals, 
+like someone seeing your private messages. This vulnerability breaches the confidentiality 
+aspect of the CIA triad, as it's all about keeping data private and accessible only to those 
+who are supposed to see it. Implementing secure versions, like encryption and strict access controls, 
+prevents unauthorized access to this sensitive info.
