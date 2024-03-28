@@ -1,3 +1,5 @@
+03/27/24
+
 Privilege escalation is when an attacker gains elevated access to resources that are normally protected 
 from an application or user. The vulnerability occurs when an application or system does not properly 
 enforce access controls, allowing an attacker to elevate their privileges within the system, often leading 

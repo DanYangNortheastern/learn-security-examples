@@ -1,6 +1,7 @@
 - Briefly explain the vulnerability and why the secure version prevents the vulnerability.
 - What additional security mechanisms can you incorporate to prevent such attacks?
 
+03/27/24
 
 A DoS attack overwhelms a system, network, or website, making it unavailable to intended users. 
 This kind of attack exploits the availability aspect of the CIA triad, as it prevents legitimate users from 

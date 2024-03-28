@@ -1,6 +1,8 @@
 - Briefly explain the vulnerability and why the secure version is better at preventing repudiation than the insecure version.
 - What additional security mechanisms can you incorporate to prevent such attacks?
 
+03/27/24
+
 Repudiation refers to the ability of users (or attackers) to deny their actions on a system. In a security context, 
 it's a vulnerability where an individual can perform an action on a system but there's no way to prove they did it, 
 making accountability and tracking challenging. This can be particularly problematic in cases of unauthorized access 
